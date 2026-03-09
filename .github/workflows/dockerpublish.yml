@@ -24,3 +24,6 @@ jobs:
           context: .
           push: true
           tags: ${{ secrets.DOCKER_USERNAME }}/python-PR1:latest
+
+
+          
